@@ -17,7 +17,7 @@ compile "au.com.auspost:cassius-java:0.1.14"
 ```
 
 Maven:
-```xml
+```maven
 <dependency>
   <groupId>au.com.auspost</groupId>
   <artifactId>cassius-java</artifactId>
